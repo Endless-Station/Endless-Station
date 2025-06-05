@@ -1,0 +1,4 @@
+author: "twilightwanderer"
+delete-after: True
+changes:
+  - map: "Catwalk Station's tech storage now has the same collection of shuttle parts that other stations do."
