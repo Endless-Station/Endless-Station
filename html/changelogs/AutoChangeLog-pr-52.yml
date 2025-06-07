@@ -1,0 +1,4 @@
+author: "twilightwanderer"
+delete-after: True
+changes:
+  - bugfix: "Healium crystals properly work in a 7 range AOE"
